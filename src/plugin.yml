@@ -1,0 +1,6 @@
+name: ChatGuessGame
+version: 1.0.0
+api: ["1.0.0"]
+author: ThronFlohx
+description: Simple Translate Game with ~300 different Words.
+main: chatGuessGame.Main
